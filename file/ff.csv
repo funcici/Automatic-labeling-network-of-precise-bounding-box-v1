@@ -1,0 +1,67 @@
+name,center_point_x,center_point_y
+1_Small Car,125,644
+27_Small Car,196,666
+40_Small Car,349,642
+51_Small Car,443,686
+2_Small Car,660,735
+3_Small Car,547,780
+4_Van,414,837
+5_Van,597,938
+6_Small Car,1059,1278
+7_Small Car,1881,1737
+8_Small Car,1886,1713
+9_Small Car,1385,1348
+10_Small Car,1456,1392
+11_Small Car,932,1044
+12_Small Car,807,890
+13_Small Car,736,884
+14_Small Car,683,869
+15_Small Car,1351,359
+16_Small Car,1337,461
+17_Small Car,1278,697
+18_Small Car,1240,750
+19_Small Car,1186,914
+20_Van,978,1528
+21_Dump Truck,852,1915
+22_Small Car,1012,1741
+23_Small Car,1098,1540
+24_Small Car_trun,1132,1081
+25_Small Car,1221,1129
+26_Small Car,1279,883
+28_Small Car,1324,808
+29_Small Car,1324,755
+30_Small Car,1304,748
+31_Small Car,1378,590
+32_Small Car,1359,595
+33_Small Car,1448,328
+34_other_diff,102,1413
+35_Small Car,1871,233
+36_Van,1906,341
+39_Small Car,1953,412
+41_Van,1957,487
+42_Small Car,1993,522
+43_Small Car,1994,593
+44_Small Car,2028,624
+45_Small Car,2044,665
+46_Small Car,2031,696
+47_Van,2045,746
+48_Small Car,2063,729
+49_Small Car,2064,790
+50_Small Car,2081,834
+52_Small Car,2095,816
+53_Small Car,2111,927
+54_Van,2141,1014
+55_Van,2171,1084
+56_Small Car,2189,1133
+57_Small Car,2223,1174
+58_Small Car,2208,1200
+59_Small Car,2230,1241
+60_Small Car,2221,730
+61_Small Car,2175,557
+62_Small Car,2158,461
+63_Small Car,2179,474
+64_Small Car,2132,216
+65_Van,1869,1944
+66_Small Car,2023,1478
+67_Small Car,1572,1836
+68_Small Car,1606,1985

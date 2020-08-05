@@ -1,0 +1,2382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<判读标注 longitudeoffset="1294231.7629246" latitudeoffset="6144084.77059074" lonpixel="0.298582141738936" latpixel="0.298582141739138" prjInfo="PROJCS[&quot;WGS_1984_Web_Mercator_Auxiliary_Sphere&quot;,GEOGCS[&quot;GCS_WGS_1984&quot;,DATUM[&quot;D_WGS_1984&quot;,SPHEROID[&quot;WGS_1984&quot;,6378137.0,298.257223563]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Mercator_Auxiliary_Sphere&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Central_Meridian&quot;,0.0],PARAMETER[&quot;Standard_Parallel_1&quot;,0.0],PARAMETER[&quot;Auxiliary_Sphere_Type&quot;,0.0],UNIT[&quot;Meter&quot;,1.0]]" version="1.0" type="AIOCore.Source.GxVecSource" imageSource="C:\Users\16556\Desktop\标注图\Munich_N48.13_E11.37.tif">
+  <Style />
+  <Children>
+    <Child typename="VectorItem" name="1_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294273.74093307" y="6143892.46699827" />
+        <GeoShapePoint x="1294267.13454805" y="6143896.62551636" />
+        <GeoShapePoint x="1294264.43453374" y="6143892.33614989" />
+        <GeoShapePoint x="1294271.04091877" y="6143888.17763181" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="27_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294295.23148478" y="6143886.2870368" />
+        <GeoShapePoint x="1294288.23189856" y="6143889.98538047" />
+        <GeoShapePoint x="1294285.81973246" y="6143885.42004786" />
+        <GeoShapePoint x="1294292.81931867" y="6143881.72170419" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="40_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294331.61519671" y="6143892.81720902" />
+        <GeoShapePoint x="1294337.83011183" y="6143888.96487249" />
+        <GeoShapePoint x="1294340.35179511" y="6143893.03307239" />
+        <GeoShapePoint x="1294334.13687999" y="6143896.88540893" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="51_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294360.17156979" y="6143879.71493114" />
+        <GeoShapePoint x="1294365.96766076" y="6143876.31194396" />
+        <GeoShapePoint x="1294368.13319225" y="6143880.00037377" />
+        <GeoShapePoint x="1294362.33710128" y="6143883.40336095" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="2_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294424.85490587" y="6143867.1632552" />
+        <GeoShapePoint x="1294429.72211916" y="6143860.65571719" />
+        <GeoShapePoint x="1294433.22843647" y="6143863.27818834" />
+        <GeoShapePoint x="1294428.36122317" y="6143869.78572635" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="3_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294391.3277069" y="6143851.90072166" />
+        <GeoShapePoint x="1294397.5861045" y="6143848.45853465" />
+        <GeoShapePoint x="1294399.28079142" y="6143851.53970407" />
+        <GeoShapePoint x="1294393.02239382" y="6143854.98189109" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="4_Van" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294359.48204623" y="6143834.17452098" />
+        <GeoShapePoint x="1294353.35010503" y="6143838.33786843" />
+        <GeoShapePoint x="1294351.30924397" y="6143835.33200061" />
+        <GeoShapePoint x="1294357.44118517" y="6143831.16865316" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="5_Van" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294414.17547335" y="6143804.23991177" />
+        <GeoShapePoint x="1294407.86378876" y="6143807.96584659" />
+        <GeoShapePoint x="1294405.86390438" y="6143804.57804001" />
+        <GeoShapePoint x="1294412.17558898" y="6143800.85210519" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="6_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294552.18278539" y="6143702.4469833" />
+        <GeoShapePoint x="1294546.50232575" y="6143707.0080515" />
+        <GeoShapePoint x="1294543.97994085" y="6143703.86659705" />
+        <GeoShapePoint x="1294549.66040049" y="6143699.30552886" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="7_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294789.20645253" y="6143566.35844059" />
+        <GeoShapePoint x="1294795.12167384" y="6143562.03074904" />
+        <GeoShapePoint x="1294797.66636493" y="6143565.50883735" />
+        <GeoShapePoint x="1294791.75114362" y="6143569.8365289" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="8_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294791.1474187" y="6143573.71040621" />
+        <GeoShapePoint x="1294796.65026716" y="6143569.52974595" />
+        <GeoShapePoint x="1294799.04027287" y="6143572.67564705" />
+        <GeoShapePoint x="1294793.53742441" y="6143576.85630731" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="9_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294641.50662912" y="6143682.59932589" />
+        <GeoShapePoint x="1294646.99107133" y="6143678.56941462" />
+        <GeoShapePoint x="1294649.42674641" y="6143681.88414293" />
+        <GeoShapePoint x="1294643.94230419" y="6143685.9140542" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="10_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294662.50735595" y="6143669.39931265" />
+        <GeoShapePoint x="1294668.50702731" y="6143665.28702887" />
+        <GeoShapePoint x="1294670.95338165" y="6143668.85609143" />
+        <GeoShapePoint x="1294664.95371029" y="6143672.96844811" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="11_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294505.71834515" y="6143773.22148437" />
+        <GeoShapePoint x="1294512.59214926" y="6143769.44430364" />
+        <GeoShapePoint x="1294514.38276736" y="6143772.70290201" />
+        <GeoShapePoint x="1294507.50896325" y="6143776.48008274" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="12_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294468.62181027" y="6143819.45650258" />
+        <GeoShapePoint x="1294474.36175307" y="6143814.8355503" />
+        <GeoShapePoint x="1294477.2457934" y="6143818.41795283" />
+        <GeoShapePoint x="1294471.5058506" y="6143823.03894156" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="13_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294447.42845568" y="6143821.20371109" />
+        <GeoShapePoint x="1294453.76025958" y="6143816.97657961" />
+        <GeoShapePoint x="1294456.05582848" y="6143820.41504893" />
+        <GeoShapePoint x="1294449.72402458" y="6143824.64221686" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="14_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294431.85254211" y="6143825.48150531" />
+        <GeoShapePoint x="1294437.67598731" y="6143821.56549409" />
+        <GeoShapePoint x="1294439.94498561" y="6143824.93970556" />
+        <GeoShapePoint x="1294434.12154041" y="6143828.85571678" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="15_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294636.15970527" y="6143973.71345152" />
+        <GeoShapePoint x="1294638.08018764" y="6143980.2085972" />
+        <GeoShapePoint x="1294634.31485252" y="6143981.32190183" />
+        <GeoShapePoint x="1294632.39437015" y="6143974.82675615" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="16_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294631.67412092" y="6143943.1188052" />
+        <GeoShapePoint x="1294633.82980233" y="6143949.9184376" />
+        <GeoShapePoint x="1294630.37489496" y="6143951.01377336" />
+        <GeoShapePoint x="1294628.21921354" y="6143944.21414096" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="17_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294614.06954726" y="6143872.1391747" />
+        <GeoShapePoint x="1294616.16210072" y="6143879.68245596" />
+        <GeoShapePoint x="1294612.83253807" y="6143880.60612156" />
+        <GeoShapePoint x="1294610.73998461" y="6143873.0628403" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="18_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294602.87566924" y="6143856.85473591" />
+        <GeoShapePoint x="1294604.89889857" y="6143863.50777439" />
+        <GeoShapePoint x="1294601.43841465" y="6143864.56013794" />
+        <GeoShapePoint x="1294599.41518531" y="6143857.90709946" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="19_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294586.28755783" y="6143807.84221492" />
+        <GeoShapePoint x="1294588.50232149" y="6143814.90438237" />
+        <GeoShapePoint x="1294585.550907" y="6143815.82997972" />
+        <GeoShapePoint x="1294583.33614334" y="6143808.76781227" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="20_Van" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294524.65055599" y="6143624.35528802" />
+        <GeoShapePoint x="1294526.7403394" y="6143631.24232276" />
+        <GeoShapePoint x="1294523.39554148" y="6143632.25721774" />
+        <GeoShapePoint x="1294521.30575807" y="6143625.370183" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="21_Dump Truck" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294487.01617596" y="6143507.96004537" />
+        <GeoShapePoint x="1294489.62621834" y="6143516.29023928" />
+        <GeoShapePoint x="1294485.83752004" y="6143517.47727824" />
+        <GeoShapePoint x="1294483.22747767" y="6143509.14708433" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="22_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294533.16220634" y="6143569.00073946" />
+        <GeoShapePoint x="1294530.82778385" y="6143561.81479454" />
+        <GeoShapePoint x="1294534.93955736" y="6143560.47908413" />
+        <GeoShapePoint x="1294537.27390695" y="6143567.66502904" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="23_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294558.98628128" y="6143628.54640885" />
+        <GeoShapePoint x="1294557.19927154" y="6143622.30909644" />
+        <GeoShapePoint x="1294560.51163072" y="6143621.36006301" />
+        <GeoShapePoint x="1294562.29864047" y="6143627.59737543" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="24_Small Car_trun" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294570.63561371" y="6143759.59400881" />
+        <GeoShapePoint x="1294571.89307024" y="6143763.23246839" />
+        <GeoShapePoint x="1294569.00915747" y="6143764.22913937" />
+        <GeoShapePoint x="1294567.75170094" y="6143760.59067979" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="25_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294596.22900916" y="6143751.13515341" />
+        <GeoShapePoint x="1294594.07168758" y="6143744.587231" />
+        <GeoShapePoint x="1294596.79413563" y="6143743.69028179" />
+        <GeoShapePoint x="1294598.95145721" y="6143750.2382042" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="26_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294613.15805529" y="6143824.89804548" />
+        <GeoShapePoint x="1294611.33569097" y="6143817.80190847" />
+        <GeoShapePoint x="1294614.56170481" y="6143816.97344508" />
+        <GeoShapePoint x="1294616.38406913" y="6143824.06958209" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="28_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294626.92862576" y="6143846.92443768" />
+        <GeoShapePoint x="1294624.73733463" y="6143840.63190652" />
+        <GeoShapePoint x="1294627.71335154" y="6143839.5955801" />
+        <GeoShapePoint x="1294629.90464267" y="6143845.88811126" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="29_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294626.53429469" y="6143863.52269986" />
+        <GeoShapePoint x="1294624.16965679" y="6143855.81172128" />
+        <GeoShapePoint x="1294628.08723528" y="6143854.61035825" />
+        <GeoShapePoint x="1294630.45187317" y="6143862.32133682" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="30_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294620.96358002" y="6143865.56109156" />
+        <GeoShapePoint x="1294618.63283878" y="6143858.15040819" />
+        <GeoShapePoint x="1294621.82204013" y="6143857.14739525" />
+        <GeoShapePoint x="1294624.15274492" y="6143864.55807863" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="31_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294642.89311162" y="6143912.73807228" />
+        <GeoShapePoint x="1294640.39186657" y="6143905.36802844" />
+        <GeoShapePoint x="1294643.99588278" y="6143904.14490594" />
+        <GeoShapePoint x="1294646.49712783" y="6143911.51494978" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="32_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294636.88757213" y="6143911.25454693" />
+        <GeoShapePoint x="1294634.76728174" y="6143903.38326999" />
+        <GeoShapePoint x="1294638.27226869" y="6143902.4391206" />
+        <GeoShapePoint x="1294640.39255908" y="6143910.31039754" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="33_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294663.59314232" y="6143990.5865864" />
+        <GeoShapePoint x="1294661.72397875" y="6143983.81782547" />
+        <GeoShapePoint x="1294664.95771957" y="6143982.9248491" />
+        <GeoShapePoint x="1294666.82684669" y="6143989.69361003" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="34_other_diff" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294265.17161285" y="6143660.30804773" />
+        <GeoShapePoint x="1294263.06036156" y="6143666.42912743" />
+        <GeoShapePoint x="1294259.60632893" y="6143665.2377876" />
+        <GeoShapePoint x="1294261.71758022" y="6143659.1167079" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="35_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294794.20267358" y="6144011.38601084" />
+        <GeoShapePoint x="1294791.76455649" y="6144019.90332886" />
+        <GeoShapePoint x="1294787.13850149" y="6144018.57909957" />
+        <GeoShapePoint x="1294789.57661858" y="6144010.06178155" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="36_Van" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294804.09415468" y="6143979.05377828" />
+        <GeoShapePoint x="1294801.73502044" y="6143987.67825347" />
+        <GeoShapePoint x="1294797.98047393" y="6143986.65129419" />
+        <GeoShapePoint x="1294800.33960817" y="6143978.026819" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="39_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294817.80520554" y="6143958.2772432" />
+        <GeoShapePoint x="1294815.63013377" y="6143965.98468632" />
+        <GeoShapePoint x="1294811.98580606" y="6143964.95626912" />
+        <GeoShapePoint x="1294814.16087783" y="6143957.248826" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="41_Van" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294819.60672159" y="6143935.66977851" />
+        <GeoShapePoint x="1294817.31607317" y="6143944.01345818" />
+        <GeoShapePoint x="1294813.04811992" y="6143942.84180028" />
+        <GeoShapePoint x="1294815.33876834" y="6143934.49812061" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="42_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294829.87452845" y="6143925.94063688" />
+        <GeoShapePoint x="1294827.88129583" y="6143932.90271808" />
+        <GeoShapePoint x="1294824.19997338" y="6143931.84871437" />
+        <GeoShapePoint x="1294826.19324245" y="6143924.88663317" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="43_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294830.08268306" y="6143904.79947585" />
+        <GeoShapePoint x="1294828.11831727" y="6143911.41340561" />
+        <GeoShapePoint x="1294824.4595197" y="6143910.32674448" />
+        <GeoShapePoint x="1294826.42388549" y="6143903.71281472" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="44_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294840.04946575" y="6143895.70671656" />
+        <GeoShapePoint x="1294838.34005383" y="6143901.88115615" />
+        <GeoShapePoint x="1294834.97976551" y="6143900.95085701" />
+        <GeoShapePoint x="1294836.68914098" y="6143894.77641742" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="45_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294844.89005378" y="6143882.79996405" />
+        <GeoShapePoint x="1294842.51765246" y="6143890.12331798" />
+        <GeoShapePoint x="1294839.32199982" y="6143889.08804856" />
+        <GeoShapePoint x="1294841.69440113" y="6143881.76469463" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="46_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294841.19032508" y="6143874.00877565" />
+        <GeoShapePoint x="1294839.02644286" y="6143880.5458001" />
+        <GeoShapePoint x="1294835.64034934" y="6143879.42495073" />
+        <GeoShapePoint x="1294837.80419511" y="6143872.88792628" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="47_Van" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294845.33129345" y="6143858.1735709" />
+        <GeoShapePoint x="1294842.9924972" y="6143866.23893353" />
+        <GeoShapePoint x="1294839.8796909" y="6143865.33626198" />
+        <GeoShapePoint x="1294842.21848715" y="6143857.27089935" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="48_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294850.51274331" y="6143864.23225159" />
+        <GeoShapePoint x="1294848.58901706" y="6143870.60671789" />
+        <GeoShapePoint x="1294845.51987548" y="6143869.68050093" />
+        <GeoShapePoint x="1294847.44367463" y="6143863.30603463" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="49_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294850.89442693" y="6143845.98805172" />
+        <GeoShapePoint x="1294848.61168773" y="6143852.76672651" />
+        <GeoShapePoint x="1294845.48772833" y="6143851.71469099" />
+        <GeoShapePoint x="1294847.77046753" y="6143844.9360162" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="50_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294856.11924993" y="6143833.11490428" />
+        <GeoShapePoint x="1294854.17875759" y="6143839.4927238" />
+        <GeoShapePoint x="1294850.51172277" y="6143838.37705005" />
+        <GeoShapePoint x="1294852.45221511" y="6143831.99923053" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="52_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294860.11694115" y="6143838.10055541" />
+        <GeoShapePoint x="1294858.11200872" y="6143844.83789815" />
+        <GeoShapePoint x="1294854.93177359" y="6143843.89148898" />
+        <GeoShapePoint x="1294856.93670602" y="6143837.15414624" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="53_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294864.84373847" y="6143804.88919672" />
+        <GeoShapePoint x="1294862.61793107" y="6143811.69258326" />
+        <GeoShapePoint x="1294859.4492864" y="6143810.65592881" />
+        <GeoShapePoint x="1294861.6750938" y="6143803.85254226" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="54_Van" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294874.94887783" y="6143777.24396024" />
+        <GeoShapePoint x="1294871.4691858" y="6143787.65256578" />
+        <GeoShapePoint x="1294867.39757801" y="6143786.2913782" />
+        <GeoShapePoint x="1294870.87727003" y="6143775.88277266" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="55_Van" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294883.09726903" y="6143757.76169418" />
+        <GeoShapePoint x="1294881.3109518" y="6143765.16224501" />
+        <GeoShapePoint x="1294877.30618967" y="6143764.19564364" />
+        <GeoShapePoint x="1294879.0925069" y="6143756.79509281" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="56_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294887.69496748" y="6143744.19289992" />
+        <GeoShapePoint x="1294886.45106961" y="6143749.5100093" />
+        <GeoShapePoint x="1294883.18124526" y="6143748.74503835" />
+        <GeoShapePoint x="1294884.42514313" y="6143743.42792898" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="57_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294898.64468025" y="6143731.07977875" />
+        <GeoShapePoint x="1294896.46144413" y="6143738.05826156" />
+        <GeoShapePoint x="1294892.52236132" y="6143736.82588127" />
+        <GeoShapePoint x="1294894.70567034" y="6143729.84739846" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="58_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294893.52562939" y="6143724.37545791" />
+        <GeoShapePoint x="1294891.94203602" y="6143729.45667573" />
+        <GeoShapePoint x="1294889.04194034" y="6143728.55283785" />
+        <GeoShapePoint x="1294890.62553371" y="6143723.47162003" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="59_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294900.37107695" y="6143711.29929503" />
+        <GeoShapePoint x="1294898.79171155" y="6143717.89893717" />
+        <GeoShapePoint x="1294895.1160021" y="6143717.01930077" />
+        <GeoShapePoint x="1294896.6952946" y="6143710.41965863" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="60_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294891.71168457" y="6143870.77011435" />
+        <GeoShapePoint x="1294893.37232904" y="6143861.87074823" />
+        <GeoShapePoint x="1294898.40587286" y="6143862.81001359" />
+        <GeoShapePoint x="1294896.74522838" y="6143871.7093797" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="61_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294878.3615055" y="6143922.72238647" />
+        <GeoShapePoint x="1294879.87023465" y="6143913.22432525" />
+        <GeoShapePoint x="1294884.52027245" y="6143913.96298073" />
+        <GeoShapePoint x="1294883.0115433" y="6143923.46104194" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="62_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294873.99270059" y="6143949.85257603" />
+        <GeoShapePoint x="1294874.89529924" y="6143943.46732112" />
+        <GeoShapePoint x="1294878.40866924" y="6143943.96403467" />
+        <GeoShapePoint x="1294877.50599769" y="6143950.34928959" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="63_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294879.89924727" y="6143946.28395085" />
+        <GeoShapePoint x="1294881.23346332" y="6143938.98800583" />
+        <GeoShapePoint x="1294885.0867475" y="6143939.69269176" />
+        <GeoShapePoint x="1294883.75253145" y="6143946.98863678" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="64_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294866.1232096" y="6144023.64274945" />
+        <GeoShapePoint x="1294867.15745848" y="6144016.136062" />
+        <GeoShapePoint x="1294870.89964911" y="6144016.65172852" />
+        <GeoShapePoint x="1294869.86540023" y="6144024.15841597" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="65_Van" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294789.97433932" y="6143508.33484031" />
+        <GeoShapePoint x="1294786.546039" y="6143501.46318663" />
+        <GeoShapePoint x="1294789.90064144" y="6143499.78953022" />
+        <GeoShapePoint x="1294793.32894176" y="6143506.66118389" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="66_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294834.50809174" y="6143646.49650969" />
+        <GeoShapePoint x="1294833.7963349" y="6143640.38293829" />
+        <GeoShapePoint x="1294837.66503659" y="6143639.93251371" />
+        <GeoShapePoint x="1294838.37679343" y="6143646.04608512" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="67_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294704.23359064" y="6143533.89127747" />
+        <GeoShapePoint x="1294701.96772687" y="6143540.29307978" />
+        <GeoShapePoint x="1294698.20957201" y="6143538.96287302" />
+        <GeoShapePoint x="1294700.47543578" y="6143532.5610707" />
+      </GeoShape>
+    </Child>
+    <Child typename="VectorItem" name="68_Small Car" description="" type="AIOCore.Layer.GxRectangle">
+      <Style>
+        <Pen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFFFF00" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="5" lineDashPattern="3" />
+        </Pen>
+        <TextPen type="AIOCore.Layer.GDIPlusPen">
+          <PenStyle color="FFFF0000" width="0.176" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+        </TextPen>
+        <Brush type="AIOCore.Layer.GDIPlusBrush">
+          <SolidBrush color="AFF0000" />
+        </Brush>
+        <Font type="AIOCore.Layer.GDIFont">
+          <Font name="宋体" size="15.75" bold="False" italic="False" underline="False" color="FFFFFF00" />
+        </Font>
+        <Point pointShape="0" pointSize="5" showInfo="False" type="AIOCore.Layer.GDIPlusPoint">
+          <DefaultBrush type="AIOCore.Layer.GDIPlusBrush">
+            <SolidBrush color="FFFF0000" />
+          </DefaultBrush>
+          <OutLinePen type="AIOCore.Layer.GDIPlusPen">
+            <PenStyle color="FFFFFF00" width="1" startCap="0" endCap="0" joinStyle="0" lineDashStyle="0" lineDashPattern="" />
+          </OutLinePen>
+          <DefaultInfoBrush type="System.Drawing.SolidBrush">
+            <SolidBrush color="#FF0000" />
+          </DefaultInfoBrush>
+          <DefaultInfoFont type="System.Drawing.Font">
+            <TextFont font="Microsoft Sans Serif, 8.25pt" />
+          </DefaultInfoFont>
+        </Point>
+      </Style>
+      <GeoShape>
+        <GeoShapePoint x="1294713.33874225" y="6143487.83826243" />
+        <GeoShapePoint x="1294713.3855415" y="6143495.75371437" />
+        <GeoShapePoint x="1294709.79413631" y="6143495.77492712" />
+        <GeoShapePoint x="1294709.74733706" y="6143487.85947518" />
+      </GeoShape>
+    </Child>
+  </Children>
+</判读标注>
