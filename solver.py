@@ -170,8 +170,7 @@ class Solver(object):
         # 读取文件头
         start = utilize.load_from_txt("./file/start.txt", encoding="utf-8")
         for line in start:
-            line = line.replace("139.705710411072", str(longitudeoffset)).replace("35.5766701698303",
-                                                                                  str(latitudeoffset))
+            line = line.replace("139.705710411072", str(longitudeoffset)).replace("35.5766701698303",str(latitudeoffset))
             out_file.write(line)  # first is old ,second is new
         # 读取block
         block = utilize.load_from_txt("./file/block.txt", encoding="utf-8")
