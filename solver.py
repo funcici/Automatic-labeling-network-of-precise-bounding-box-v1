@@ -236,6 +236,7 @@ class Solver(object):
                 box = np.int0(box/2)
                 box = box + st
                 pos = [box[0],box[1],box[2],box[3]]
+                block = utilize.load_from_txt("./file/block.txt", encoding="utf-8")
                 for line in block[:-7]:
                     line = line.replace("矩形612", i)
                     out_file.write(line)  # first is old ,second is new
