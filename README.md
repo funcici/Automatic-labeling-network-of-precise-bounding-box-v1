@@ -9,8 +9,8 @@
 仅仅使用
 
 第一步，你需要使用标注软件中的点标注功能对车辆进行标注（你仅仅需要标注出车辆的近似中心点）
-
-第二步，你需要将第一步中的vif生成对应的csv文件. csv文件格式应和./file/ff.csv格式一致（如果想验证可以使用tif2csv.py，将之前标注好的斜框vif文件生成只有中心点的csv文件进行验证）
+v
+第二步，你需要将第一步中的vif生成对应的csv文件（使用vifdian2csv.py文件）. csv文件格式应和./file/ff.csv格式一致（如果想验证可以使用vif2csv.py，将之前标注好的斜框vif文件生成只有中心点的csv文件进行验证）
 
 第三步，你需要下载我预训练好的模型放在合适位置，地址链接：https://pan.baidu.com/s/1I-aCNbT2L4h8itwBoSideg   提取码：9eox
 
